@@ -1,88 +1,88 @@
-# Roadmap to Mid-Level - Senior
+# Roadmap para Nível Médio - Sênior
 
-Here's a self-study roadmap you can follow to tackle SOLID principles, Clean Code and Design Patterns systematically. Each day focuses on incremental learning to prevent overload.
+Aqui está um roteiro de autoestudo que você pode seguir para abordar sistematicamente os princípios SOLID, Clean Code e Padrões de Projeto. Cada dia foca em aprendizado incremental para evitar sobrecarga.
 
-### My Goals
-What is my point in here? transition myself from a junior-midlevel for a decent mid-level engineer, to align myself to the best practices while coding.
+### Meus Objetivos
+Qual é o meu ponto aqui? Transicionar de um engenheiro júnior-médio para um engenheiro de nível médio decente, alinhando-me às melhores práticas do coding.
 
-## Summary/Checkpoint
-1. [SOLID](/SOLID/README.md) - In this section, I will be writing stuff/testing about how to implement SOLID foundations to a TypeScript API.
+## Resumo/Checkpoint
+1. [SOLID](/SOLID/README.md) - Nesta seção, estarei escrevendo/testando sobre como implementar os fundamentos SOLID em uma API TypeScript.
 
-# Roadmap:
+# Roteiro:
 
-## Week 1: SOLID Principles
+## Semana 1: Princípios SOLID
 
-### Day 1:
-- Overview of SOLID principles: what they are and why they matter.
-- Focus on the Single Responsibility Principle (SRP).
-- Refactor a class to align with SRP.
+### Dia 1 - [Video](https://www.youtube.com/watch?v=vAV4Vy4jfkc):
+[X] - Visão geral dos princípios SOLID: o que são e por que são importantes.
+[] - Foco no Princípio da Responsabilidade Única (SRP).
+[] - Refatorar uma classe para alinhar-se ao SRP.
 
-### Day 2:
-- Study the Open-Closed Principle (OCP).
-- Understand how to extend functionality without modifying existing code.
-- Refactor or write an example implementing OCP.
+### Dia 2:
+- Estudar o Princípio Aberto-Fechado (OCP).
+- Entender como estender a funcionalidade sem modificar o código existente.
+- Refatorar ou escrever um exemplo implementando o OCP.
 
-### Day 3:
-- Learn the Liskov Substitution Principle (LSP).
-- Explore how to ensure derived classes work seamlessly with their base classes.
-- Write an example.
+### Dia 3:
+- Aprender o Princípio da Substituição de Liskov (LSP).
+- Explorar como garantir que classes derivadas funcionem perfeitamente com suas classes base.
+- Escrever um exemplo.
 
-### Day 4:
-- Study the Interface Segregation Principle (ISP).
-- Practice creating focused interfaces.
+### Dia 4:
+- Estudar o Princípio da Segregação de Interface (ISP).
+- Praticar a criação de interfaces focadas.
 
-### Day 5:
-- Understand the Dependency Inversion Principle (DIP).
-- Refactor or write code implementing DIP.
+### Dia 5:
+- Entender o Princípio da Inversão de Dependência (DIP).
+- Refatorar ou escrever código implementando o DIP.
 
-### Day 6-7:
-- Review all SOLID principles with practical examples.
-- Write or refactor a small project applying all principles.
+### Dia 6-7:
+- Revisar todos os princípios SOLID com exemplos práticos.
+- Escrever ou refatorar um pequeno projeto aplicando todos os princípios.
 
-## Week 2: Introduction to Clean Code
+## Semana 2: Introdução ao Código Limpo
 
-### Day 1:
-- Read about the importance of clean code.
-- Watch a short video or read an article summarizing "Clean Code" by Robert C. Martin.
+### Dia 1:
+- Ler sobre a importância do código limpo.
+- Assistir a um vídeo curto ou ler um artigo resumindo "Código Limpo" de Robert C. Martin.
 
-### Day 2:
-- Study naming conventions for variables, functions, and classes.
-- Practice refactoring a piece of messy code.
+### Dia 2:
+- Estudar convenções de nomenclatura para variáveis, funções e classes.
+- Praticar a refatoração de um código bagunçado.
 
-### Day 3:
-- Learn about function composition: size, single responsibility, and readability.
-- Refactor a function in one of your projects to make it cleaner.
+### Dia 3:
+- Aprender sobre composição de funções: tamanho, responsabilidade única e legibilidade.
+- Refatorar uma função em um dos seus projetos para torná-la mais limpa.
 
-### Day 4:
-- Explore the concept of comments: when to use and when to avoid them.
-- Identify unnecessary comments in a past project and remove them.
+### Dia 4:
+- Explorar o conceito de comentários: quando usar e quando evitar.
+- Identificar comentários desnecessários em um projeto passado e removê-los.
 
-### Day 5:
-- Learn about code smells and their solutions.
-- Identify code smells in an old project or open-source code.
+### Dia 5:
+- Aprender sobre "code smells" e suas soluções.
+- Identificar "code smells" em um projeto antigo ou código de código aberto.
 
-### Day 6-7:
-- Write a small project or program focusing on the principles learned so far.
-- Review your code and refactor it for clarity.
+### Dia 6-7:
+- Escrever um pequeno projeto ou programa focando nos princípios aprendidos até agora.
+- Revisar seu código e refatorá-lo para maior clareza.
 
-## Week 3-4: Design Patterns
+## Semana 3-4: Padrões de Projeto
 
-### Day 1-2:
-- Learn about Creational Patterns: Singleton, Factory, and Builder.
-- Implement examples for each.
+### Dia 1-2:
+- Aprender sobre Padrões Criacionais: Singleton, Factory e Builder.
+- Implementar exemplos para cada um.
 
-### Day 3-4:
-- Study Structural Patterns: Adapter, Decorator, and Composite.
-- Write examples demonstrating their usage.
+### Dia 3-4:
+- Estudar Padrões Estruturais: Adapter, Decorator e Composite.
+- Escrever exemplos demonstrando seu uso.
 
-### Day 5-6:
-- Explore Behavioral Patterns: Strategy, Observer, and Command.
-- Implement these patterns in a mini-project.
+### Dia 5-6:
+- Explorar Padrões Comportamentais: Strategy, Observer e Command.
+- Implementar esses padrões em um mini-projeto.
 
-### Day 7:
-- Review all patterns studied and summarize their use cases.
+### Dia 7:
+- Revisar todos os padrões estudados e resumir seus casos de uso.
 
-## Continuous Practice
-- Each week, dedicate one day to review and refactor your projects.
-- Share your code on platforms like GitHub or Reddit for feedback.
-- As you master these concepts, start integrating them into larger projects.s
+## Prática Contínua
+- Cada semana, dedique um dia para revisar e refatorar seus projetos.
+- Compartilhe seu código em plataformas como GitHub ou Reddit para feedback.
+- À medida que você dominar esses conceitos, comece a integrá-los em projetos maiores.
