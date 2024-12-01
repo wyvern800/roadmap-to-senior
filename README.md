@@ -13,7 +13,7 @@ Qual é o meu ponto aqui? Transicionar de um engenheiro júnior-médio para um e
 ## Semana 1: Princípios SOLID
 
 ### Dia 1 - [Video](https://www.youtube.com/watch?v=vAV4Vy4jfkc):
-[X] - Visão geral dos princípios SOLID: o que são e por que são importantes.
+[x] - Visão geral dos princípios SOLID: o que são e por que são importantes.
 [] - Foco no Princípio da Responsabilidade Única (SRP).
 [] - Refatorar uma classe para alinhar-se ao SRP.
 
